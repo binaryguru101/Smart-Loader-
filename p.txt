@@ -1,0 +1,5 @@
+make
+./loader ./fib
+
+
+Ujjwal and ronits ELF loader in Linux. Make sure your on the current without-bonus directory on bash and run the above command. the fib and loader should compile to an object file and it should display the series of contents. 
